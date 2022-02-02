@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45ee93b3-d044-4bf9-8817-1b1aa584c5c3" name="Changes" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20lt5g2yq3cSQfnbaSvTsuO8sRH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/example/springin5steps" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.springin5steps" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.springin5steps" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.springin5steps" />
+      <recent name="com.example.springin5steps.scope" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringIn5StepsPropertiesApplication">
+    <configuration name="spring-in-5-steps [compile]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="compile" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="SpringIn5StepsBasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-in-5-steps  WITH NOTES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springin5steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springin5steps.SpringIn5StepsBasicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringIn5StepsCdiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-in-5-steps  WITH NOTES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springin5steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springin5steps.SpringIn5StepsCdiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringIn5StepsComponentScanApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-in-5-steps  WITH NOTES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springin5steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springin5steps.SpringIn5StepsComponentScanApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringIn5StepsPropertiesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-in-5-steps  WITH NOTES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springin5steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springin5steps.SpringIn5StepsPropertiesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringIn5StepsXmlContextApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-in-5-steps  WITH NOTES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springin5steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springin5steps.SpringIn5StepsXmlContextApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.spring-in-5-steps [compile]" />
+      <item itemvalue="Spring Boot.SpringIn5StepsBasicApplication" />
+      <item itemvalue="Spring Boot.SpringIn5StepsComponentScanApplication" />
+      <item itemvalue="Spring Boot.SpringIn5StepsCdiApplication" />
+      <item itemvalue="Spring Boot.SpringIn5StepsXmlContextApplication" />
+      <item itemvalue="Spring Boot.SpringIn5StepsPropertiesApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringIn5StepsPropertiesApplication" />
+        <item itemvalue="Spring Boot.SpringIn5StepsXmlContextApplication" />
+        <item itemvalue="Spring Boot.SpringIn5StepsCdiApplication" />
+        <item itemvalue="Spring Boot.SpringIn5StepsBasicApplication" />
+        <item itemvalue="Spring Boot.SpringIn5StepsComponentScanApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45ee93b3-d044-4bf9-8817-1b1aa584c5c3" name="Changes" comment="" />
+      <created>1636630820966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636630820966</updated>
+      <workItem from="1636630822258" duration="5597000" />
+      <workItem from="1636877339809" duration="2074000" />
+      <workItem from="1636893326957" duration="2549000" />
+      <workItem from="1636966791249" duration="8143000" />
+      <workItem from="1636988915658" duration="7569000" />
+      <workItem from="1637059150854" duration="108000" />
+      <workItem from="1637140099391" duration="100000" />
+      <workItem from="1638797370146" duration="753000" />
+      <workItem from="1638871311054" duration="593000" />
+      <workItem from="1638949050748" duration="89000" />
+      <workItem from="1643716003931" duration="2734000" />
+      <workItem from="1643792688780" duration="616000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1638797765015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638797765015</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1638798012665</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638798012665</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1643720495822</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643720495822</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1643720799305</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643720799305</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
